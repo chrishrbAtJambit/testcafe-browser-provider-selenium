@@ -1,6 +1,6 @@
 {
   "name": "testcafe-browser-provider-selenium",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Selenium TestCafe browser provider plugin.",
   "repository": "https://github.com/alexschwantes/testcafe-browser-provider-selenium",
   "homepage": "https://github.com/alexschwantes/testcafe-browser-provider-selenium",
@@ -27,7 +27,7 @@
     "selenium-webdriver": "4.7.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.13",
+    "@babel/core": "7.20.7",
     "@babel/plugin-proposal-class-properties": "^7.12.13",
     "@babel/plugin-proposal-json-strings": "^7.12.13",
     "@babel/plugin-syntax-dynamic-import": "^7.0.0",
