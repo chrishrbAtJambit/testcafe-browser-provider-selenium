@@ -23,8 +23,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@babel/runtime-corejs2": "7.12.13",
-    "fs": "0.0.2",
+    "@babel/runtime-corejs2": "7.20.7",
     "selenium-webdriver": "4.7.1"
   },
   "devDependencies": {
